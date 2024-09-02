@@ -1,0 +1,149 @@
+<layouts>
+
+	<layout name="root">
+		<row>
+			<button type="tag" label="dirt" icon="dirt.png" />
+			<button type="tag" label="gravel" icon="gravel.png" />
+			<button type="tag" label="camera" icon="camera.png" />
+			<button type="tag" label="previous" icon="previous.png" />
+			<button type="tag" label="asphalt" icon="asphalt.png" />
+		</row>
+		<row>
+			<button type="tag" label="25 mph" icon="restriction.png" />
+			<button type="tag" label="30 mph" icon="restriction.png" />
+			<button type="tag" label="35 mph" icon="restriction.png" />
+			<button type="tag" label="40 mph" icon="restriction.png" />
+		</row>
+		<row>
+			<button type="tag" label="45 mph" icon="restriction.png" />
+			<button type="tag" label="50 mph" icon="restriction.png" />
+			<button type="tag" label="55 mph" icon="restriction.png" />
+			<button type="tag" label="65 mph" icon="restriction.png" />
+		</row>
+		<row>
+			<button type="page" label="left" targetlayout="left" icon="left.png" />
+			<button type="page" label="more" targetlayout="more" icon="more.png" />
+			<button type="page" label="right" targetlayout="right" icon="right.png" />
+		</row>
+	</layout>
+
+    <layout name="more">
+		<row>
+			<button type="tag" label="5 mph" icon="restriction.png" />
+			<button type="tag" label="10 mph" icon="restriction.png" />
+			<button type="tag" label="15 mph" icon="restriction.png" />
+			<button type="tag" label="20 mph" icon="restriction.png" />
+		</row>
+		<row>
+			<button type="tag" label="60 mph" icon="restriction.png" />
+			<button type="tag" label="70 mph" icon="restriction.png" />
+			<button type="tag" label="75 mph" icon="restriction.png" />
+			<button type="tag" label="speed bump" icon="speed_bump.png" />
+		</row>
+		<row>
+			<button type="tag" label="fuel" icon="fuel.png" />
+			<button type="tag" label="toll" icon="toll.png" />
+			<button type="tag" label="bollard" icon="bollard.png" />
+			<button type="tag" label="gate" icon="gate.png" />
+		</row>
+		<row>
+			<button type="tag" label="parking" icon="parking.png" />
+			<button type="tag" label="track" icon="track.png" />
+			<button type="tag" label="path" icon="path.png" />
+			<button type="textnote" icon="text_32x32.png" />
+		</row>
+	</layout>
+
+	<layout name="left">
+		<row>
+			<button type="tag" label="left dirt" icon="dirt.png" />
+			<button type="tag" label="left gravel" icon="left gravel.png" />
+			<button type="tag" label="left fuel" icon="fuel.png" />
+			<button type="tag" label="left farmstand" />
+			<button type="tag" label="left asphalt" icon="asphalt.png" />
+		</row>
+		<row>
+			<button type="tag" label="left 20 mph" icon="restriction.png" />
+			<button type="tag" label="left 25 mph" icon="restriction.png" />
+			<button type="tag" label="left 30 mph" icon="restriction.png" />
+			<button type="tag" label="left 35 mph" icon="restriction.png" />
+		</row>
+		<row>
+			<button type="tag" label="left 40 mph" icon="restriction.png" />
+			<button type="tag" label="left 45 mph" icon="restriction.png" />
+			<button type="tag" label="left path" icon="path.png" />
+			<button type="tag" label="left private" icon="private.png" />
+		</row>
+		<row>
+			<button type="page" label="more" targetlayout="left more" icon="left.png" />
+			<button type="tag" label="left gate" icon="gate.png" />
+			<button type="tag" label="left camping" icon="camping.png" />
+			<button type="tag" label="left poi" icon="poi.png" />
+		</row>
+	</layout>
+
+	<layout name="left more">
+		<row>
+			<button type="tag" label="left 5 mph" icon="restriction.png" />
+			<button type="tag" label="left 10 mph" icon="restriction.png" />
+			<button type="tag" label="left 15 mph" icon="restriction.png" />
+			<button type="tag" label="left cafe" icon="cafe.png" />
+		</row>
+		<row>
+			<button type="tag" label="left spring" />
+			<button type="tag" label="left eggs" />
+			<button type="tag" label="left motorcycle" />
+			<button type="textnote" icon="text_32x32.png" />
+		</row>
+		<row>
+			<button type="tag" label="left: there be dragons" />
+		</row>
+	</layout>
+
+	<layout name="right">
+		<row>
+			<button type="tag" label="right dirt" icon="dirt.png" />
+			<button type="tag" label="right gravel" icon="right gravel.png" />
+			<button type="tag" label="right fuel" icon="fuel.png" />
+			<button type="tag" label="right farmstand" />
+			<button type="tag" label="right asphalt" icon="asphalt.png" />
+		</row>
+		<row>
+			<button type="tag" label="right 20 mph" icon="restriction.png" />
+			<button type="tag" label="right 25 mph" icon="restriction.png" />
+			<button type="tag" label="right 30 mph" icon="restriction.png" />
+			<button type="tag" label="right 35 mph" icon="restriction.png" />
+		</row>
+		<row>
+			<button type="tag" label="right 40 mph" icon="restriction.png" />
+			<button type="tag" label="right 45 mph" icon="restriction.png" />
+			<button type="tag" label="right path" icon="path.png" />
+			<button type="tag" label="right private" icon="private.png" />
+		</row>
+		<row>
+			<button type="tag" label="right gate" icon="gate.png" />
+			<button type="tag" label="right camping" icon="camping.png" />
+			<button type="tag" label="right poi" icon="poi.png" />
+			<button type="page" label="more" targetlayout="right more" icon="right.png" />
+		</row>
+	</layout>
+
+	<layout name="right more">
+		<row>
+			<button type="tag" label="right 5 mph" icon="restriction.png" />
+			<button type="tag" label="right 10 mph" icon="restriction.png" />
+			<button type="tag" label="right 15 mph" icon="restriction.png" />
+			<button type="tag" label="right cafe" icon="cafe.png" />
+		</row>
+		<row>
+			<button type="tag" label="right spring" />
+			<button type="tag" label="right eggs" />
+			<button type="tag" label="right motorcycle" />
+			<button type="textnote" icon="text_32x32.png" />
+		</row>
+		<row>
+			<button type="tag" label="right: there be dragons" />
+		</row>
+	</layout>
+
+</layouts>
