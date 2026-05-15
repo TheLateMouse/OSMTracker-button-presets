@@ -1,5 +1,4 @@
 <layouts>
-
 	<layout name="root">
 		<row>
 			<button type="tag" label="dirt" icon="dirt.png" />
