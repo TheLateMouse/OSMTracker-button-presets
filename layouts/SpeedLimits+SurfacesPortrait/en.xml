@@ -31,17 +31,17 @@
 
     <layout name="more">
 		<row>
-			<button type="tag" label="5 mph" icon="restriction.png" />
-			<button type="tag" label="10 mph" icon="restriction.png" />
-			<button type="tag" label="15 mph" icon="restriction.png" />
+			<button type="tag" label="5 mph" icon="05.png" />
+			<button type="tag" label="10 mph" icon="10.png" />
+			<button type="tag" label="15 mph" icon="15.png" />
 		</row>
 		<row>
-			<button type="tag" label="20 mph" icon="restriction.png" />
-			<button type="tag" label="60 mph" icon="restriction.png" />
-			<button type="tag" label="70 mph" icon="restriction.png" />
+			<button type="tag" label="20 mph" icon="20.png" />
+			<button type="tag" label="60 mph" icon="60.png" />
+			<button type="tag" label="70 mph" icon="70.png" />
 		</row>
 		<row>
-			<button type="tag" label="75 mph" icon="restriction.png" />
+			<button type="tag" label="75 mph" icon="75.png" />
 			<button type="tag" label="speed bump" icon="speed_bump.png" />
 			<button type="tag" label="fuel" icon="fuel.png" />
 		</row>
@@ -65,14 +65,14 @@
 			<button type="tag" label="left asphalt" icon="asphalt.png" />
 		</row>
 		<row>
-			<button type="tag" label="left 20 mph" icon="restriction.png" />
-			<button type="tag" label="left 25 mph" icon="restriction.png" />
-			<button type="tag" label="left 30 mph" icon="restriction.png" />
+			<button type="tag" label="left 20 mph" icon="20.png" />
+			<button type="tag" label="left 25 mph" icon="25.png" />
+			<button type="tag" label="left 30 mph" icon="30.png" />
 		</row>
 		<row>
-			<button type="tag" label="left 35 mph" icon="restriction.png" />
-			<button type="tag" label="left 40 mph" icon="restriction.png" />
-			<button type="tag" label="left 45 mph" icon="restriction.png" />
+			<button type="tag" label="left 35 mph" icon="35.png" />
+			<button type="tag" label="left 40 mph" icon="40.png" />
+			<button type="tag" label="left 45 mph" icon="45.png" />
 		</row>
 		<row>
 			<button type="tag" label="left farmstand" icon="farmstand.png" />
@@ -88,9 +88,9 @@
 
 	<layout name="left more">
 		<row>
-			<button type="tag" label="left 5 mph" icon="restriction.png" />
-			<button type="tag" label="left 10 mph" icon="restriction.png" />
-			<button type="tag" label="left 15 mph" icon="restriction.png" />
+			<button type="tag" label="left 5 mph" icon="05.png" />
+			<button type="tag" label="left 10 mph" icon="10.png" />
+			<button type="tag" label="left 15 mph" icon="15.png" />
 		</row>
 		<row>
 			<button type="tag" label="left poi" icon="poi.png" />
@@ -115,14 +115,14 @@
 			<button type="tag" label="right asphalt" icon="asphalt.png" />
 		</row>
 		<row>
-			<button type="tag" label="right 20 mph" icon="restriction.png" />
-			<button type="tag" label="right 25 mph" icon="restriction.png" />
-			<button type="tag" label="right 30 mph" icon="restriction.png" />
+			<button type="tag" label="right 20 mph" icon="20.png" />
+			<button type="tag" label="right 25 mph" icon="25.png" />
+			<button type="tag" label="right 30 mph" icon="30.png" />
 		</row>
 		<row>
-			<button type="tag" label="right 35 mph" icon="restriction.png" />
-			<button type="tag" label="right 40 mph" icon="restriction.png" />
-			<button type="tag" label="right 45 mph" icon="restriction.png" />
+			<button type="tag" label="right 35 mph" icon="35.png" />
+			<button type="tag" label="right 40 mph" icon="40.png" />
+			<button type="tag" label="right 45 mph" icon="45.png" />
 		</row>
 		<row>
 			<button type="tag" label="right farmstand" icon="farmstand.png" />
@@ -138,9 +138,9 @@
 
 	<layout name="right more">
 		<row>
-			<button type="tag" label="right 5 mph" icon="restriction.png" />
-			<button type="tag" label="right 10 mph" icon="restriction.png" />
-			<button type="tag" label="right 15 mph" icon="restriction.png" />
+			<button type="tag" label="right 5 mph" icon="05.png" />
+			<button type="tag" label="right 10 mph" icon="10.png" />
+			<button type="tag" label="right 15 mph" icon="15.png" />
 		</row>
 		<row>
 			<button type="tag" label="right poi" icon="poi.png" />
